@@ -1,0 +1,6 @@
+framework module Pods_Rate_Compare_App {
+  umbrella header "Pods-Rate Compare App-umbrella.h"
+
+  export *
+  module * { export * }
+}
